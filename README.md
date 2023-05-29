@@ -6,6 +6,7 @@
 * [Description](#description)
 * [Instalation](#instalation)
 * [Usage](#usage)
+* [Credits](#credits)
 * [License](#license)
 * [Contact](#contact)
 
@@ -23,6 +24,9 @@ Once you access the link you'll see a "Get Started" button. Press it and you'll 
 <img width="1260" alt="note" src="https://github.com/1alyciaoliveira/NoteTaker/assets/108914238/80b48fe0-7e85-4202-8ccd-40922a15448e">
 
 <img width="1268" alt="example" src="https://github.com/1alyciaoliveira/NoteTaker/assets/108914238/10dd19c4-0f34-4f02-92e9-bcfa5e1e8921">
+
+## Credits
+This project was done as a challenge for Tecnologico de Monterrey's bootcamp. The front-end code was provided by them.
 
 ## License
 Licensed by MIT license.
